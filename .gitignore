@@ -1,0 +1,18 @@
+# 1. Ignore the auto-downloaded dataset directory.
+# This line ignores the 'data' folder and all its contents.
+data/
+
+# 2. Ignore Python runtime cache files and folders (Recommended).
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. Ignore common virtual environment folders (Recommended).
+venv/
+env/
+.venv/
+
+# 4. Ignore IDE (e.g., VS Code, PyCharm) configuration files (Recommended).
+.vscode/
+.idea/
